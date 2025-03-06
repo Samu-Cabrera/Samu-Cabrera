@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola, Bienvenido a mi perfil. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Bienvenido a mi perfil. </b>
 <p align="center">
   <a href="https://github.com/"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=cyan&size=25&center=true&vCenter=true&width=800&height=60&lines=Soy+programador+web+...&hearts;++;Utilizo+tecnologías+como+Angular,+React+y+Express.js.;Para+crear+aplicaciones+modernas.;Estudié+Lic.+En+Informática+Empresarial.;En+la+facultad+de+ciencias+y+tecnología.;En+la+Universidad+Nacional+de+Itapúa."></a>
 </p>
@@ -64,7 +64,7 @@ Bootstrap, Git y GitHub.
 
 <br/>
 
-# 📊 Aluno de mis proyectos:
+# 📊 Mis proyectos:
 ### Desarrollador Frontend y Backend | Universidad Nacional de Itapúa – Coronel Bogado
 *Marzo 2024 – Enero 2025*  
 - Desarrollé desde cero una aplicación web para facturación de agua potable como parte de mi trabajo final de grado.  
@@ -80,6 +80,6 @@ https://github.com/Samu-Cabrera/agua-potable-app-2
 
 
 ## Contacto
-<a href="www.linkedin.com/in/samu-cabrera" target="_blank">
+<a href="www.linkedin.com/samu-cabrera" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
 </a>
