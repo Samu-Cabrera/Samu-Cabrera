@@ -25,7 +25,7 @@ Bootstrap, Git y GitHub.
 ### 👉 Frontend
 <p align="left">
   &emsp;
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=angular,react,html,css,sass,bootstrap,tailwind" />
     </a>
  </p>
@@ -33,7 +33,7 @@ Bootstrap, Git y GitHub.
  ### 👉 Backend
 <p align="left">
   &emsp;
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=nodejs,express,net" />
     </a>
  </p>
@@ -41,7 +41,7 @@ Bootstrap, Git y GitHub.
  ### 👉 Base de datos
 <p align="left">
   &emsp;
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
     </a>
  </p>
@@ -49,7 +49,7 @@ Bootstrap, Git y GitHub.
 ### 👉 Diseño de interfaces
 <p align="left">
   &emsp;
-  	<a href="https://skillicons.dev">
+  	<a href="#">
       <img src="https://skillicons.dev/icons?i=figma" />
     </a>
  </p>
@@ -57,7 +57,7 @@ Bootstrap, Git y GitHub.
  ### 👉 Software
 <p>
   &emsp;
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=windows,linux" />
     </a>
 </p>
