@@ -17,7 +17,7 @@ Bootstrap, Git y GitHub.
 ### 👉 Lenguajes de programación
 <p align="left">
   &emsp;
-    <a href="https://skillicons.dev">
+    <a href="#">
       <img src="https://skillicons.dev/icons?i=js,ts,c,cs" />
     </a>
  </p>
